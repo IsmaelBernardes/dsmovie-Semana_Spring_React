@@ -1,0 +1,13 @@
+DATABASE_URL-heroku
+
+postgres://
+
+trppecwlpyvqhq - username
+:
+47e7b0f5a0d9f58a6d129faf94d76cc9309448af39d82a013568f167b7a880ca - password
+@
+ec2-52-70-186-184.compute-1.amazonaws.com - host
+:
+5432 - port
+/
+d7e60cgina440c - database
